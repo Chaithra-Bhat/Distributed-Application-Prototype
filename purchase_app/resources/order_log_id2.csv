@@ -1,0 +1,11 @@
+Transaction number,name,order type,quantity
+1,GameStart,buy,1
+2,Amazon,buy,1
+3,Google,buy,1
+4,Google,sell,1
+5,Amazon,sell,1
+6,GameStart,sell,1
+7,GameStart,buy,1
+8,Google,buy,1
+9,Amazon,buy,1
+10,GameStart,sell,1
